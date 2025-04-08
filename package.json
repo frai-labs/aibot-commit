@@ -1,0 +1,16 @@
+{
+  "name": "frai-commit",
+  "version": "1.0.0",
+  "main": "frai-commit.js",
+  "scripts": {},
+  "type": "module",
+  "author": "Fellipe Rodrigues",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7",
+    "simple-git": "^3.27.0"
+  }
+}
